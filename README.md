@@ -1,0 +1,6 @@
+"type": 1, "id": "689573418173071500"
+"name": "HYDRA Announcer"
+"avatar": "39042b2dbf462831877496e13bee04bc"
+"channel_id": "656612660481359884"
+"guild_id": "656486925313507328"
+"token": "G9cvkR7_26y020dF_OQbS0lbnqEsD1xfXGKwSH8TMWEUxDk0yiNM0FQZ2nvONV2KbHKO"
